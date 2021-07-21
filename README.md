@@ -20,7 +20,7 @@ NOTE: All http requests must be generated via Postman.
 
 Authentication of a user with email and password is implemented.
 
-# Mi Primer Sign Ou
+# Mi Primer Sign Out
 
 Logging out of a previously authenticated user is implemented.
 
