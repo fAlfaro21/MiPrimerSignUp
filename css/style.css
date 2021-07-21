@@ -1,0 +1,27 @@
+.signup{
+    font-family: "Fredoka One", cursive;
+    font-size: 20px;
+    background-color: rgb(4, 4, 54);
+    color: #FFF;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signin{
+    font-family: "Fredoka One", cursive;
+    font-size: 20px;
+    background-color: rgb(54, 28, 4);
+    color: #FFF;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 47%;
+}
