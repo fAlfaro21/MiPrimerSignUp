@@ -14,5 +14,4 @@ The following steps are followed:
 
 - If the user was in the DB, a KO message will be returned for "you're done" (or better a redirection to login).
 
--
 NOTE: All http requests must be generated via Postman.
